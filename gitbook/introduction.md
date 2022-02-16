@@ -34,4 +34,4 @@ En el caso de no vacunarnos, si tenemos contacto con el microorganismo causante 
 
 ![UNMSM]({{site.baseurl}}/assets/images/vacuna4.jpg)
 
-Note: You can edit me at `introduction.md`.
+Note: You can edit me at `introduction.md`
